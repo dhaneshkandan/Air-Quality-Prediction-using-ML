@@ -21,6 +21,6 @@ The air quality prediction models achieved an average accuracy of 85% in forecas
 
 <b>Conclusion</b>
 
-This project demonstrates the application of regression models and decision trees algorithms for air quality prediction. The developed models can be used to forecast pollutant levels and provide valuable insights for environmental monitoring and management.
+This project demonstrates the application of linear regression models and decision trees algorithms for air quality prediction. The developed models can be used to forecast pollutant levels and provide valuable insights for environmental monitoring and management.
 
 
